@@ -1,3 +1,4 @@
+![obcy](https://user-images.githubusercontent.com/66059964/118231403-61db0a00-b48f-11eb-8972-ce81a7088cb2.jpg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ThePixOnee/s6/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
